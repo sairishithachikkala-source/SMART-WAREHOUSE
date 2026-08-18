@@ -9,7 +9,7 @@ import LowStockAlerts from './components/LowStockAlerts'
 
 import CustomerPortal from './components/customer/CustomerPortal'
 import WarehousePortal from './components/warehouse/WarehousePortal'
-import AdminPortal from "./admin/AdminPortal.jsx";
+import AdminPortal from "./Admin/AdminPortal";
 import PortalSelector from './components/portal/PortalSelector'
 
 import {
